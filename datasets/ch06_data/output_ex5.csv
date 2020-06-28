@@ -1,0 +1,4 @@
+something,a,b,c,d,message
+one,1,2,3.0,4,NULL
+two,5,6,NULL,8,world
+three,9,10,11.0,12,foo
